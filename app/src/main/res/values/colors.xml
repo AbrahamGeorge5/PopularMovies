@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#2B3D4D</color>
+    <!-- Text color for the details of the movie in the list item -->
+    <color name="textColorRelease">#B4BAC0</color>
+    <color name="texColorOverview">#FF636C70</color>
+
+    <!-- Text color for the title of the movie in the list item -->
+    <color name="textColorTitle">#2B3D4D</color>
+
+
+</resources>

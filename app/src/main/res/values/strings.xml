@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PIX</string>
+    <string name="settings_title">Movie Settings</string>
+    <string name="settings_menu_item">Movie Settings</string>
+
+    <!-- Label for sort-by Popular option [CHAR LIMIT=20] -->
+    <string name="settings_sort_by_popular_label">Popular</string>
+    <string name="settings_sort_by_popular_value" translatable="false">popularity.desc</string>
+
+    <!-- Label for sort-by Top Rated option [CHAR LIMIT=20] -->
+    <string name="settings_sort_by_top_rated_label">Top Rated</string>
+    <string name="settings_sort_by_top_rated_value" translatable="false">vote_count.desc</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_sort_by_label">Sort By</string>
+    <string name="settings_sort_by_key" translatable="false">sort_by</string>
+    <string name="settings_sort_by_default" translatable="false">@string/settings_sort_by_popular_value</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

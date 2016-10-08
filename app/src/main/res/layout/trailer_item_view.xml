@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!--<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"--><!--xmlns:card_view="http://schemas.android.com/apk/res-auto"--><!--xmlns:tools="http://schemas.android.com/tools"--><!--android:id="@+id/card"--><!--android:layout_width="match_parent"--><!--android:layout_height="160dp"--><!--android:layout_marginLeft="5dp"--><!--android:layout_marginRight="5dp"--><!--android:layout_marginTop="5dp"--><!--card_view:cardCornerRadius="5dp"--><!--tools:context="com.example.android.popularmovies.MovieDetailActivity">-->
+
+
+<!--<ImageView--><!--android:id="@+id/imgView"--><!--android:layout_marginLeft="8dp"--><!--android:layout_marginRight="8dp"--><!--android:layout_width="180dp"--><!--android:layout_height="160dp"--><!--android:src="@drawable/captain"/>--><!--</android.support.v7.widget.CardView>-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+    android:id="@+id/imgView"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_width="320dp"
+    android:layout_height="240dp"
+    android:src="@drawable/captain"/>
+
+    <!--<TextView-->
+
+        <!--android:id="@+id/txtView"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:padding="16dp"-->
+        <!--android:textColor="#787878"-->
+        <!--android:textSize="18sp"-->
+        <!--tools:text="horizontal1" />-->
+
+</LinearLayout>
